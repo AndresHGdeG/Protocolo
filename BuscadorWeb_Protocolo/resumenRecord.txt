@@ -1,0 +1,57 @@
+Buscador
+robustecer los algoritmos, 
+para cualquier diario
+
+
+Primera parte
+	hacer el buscador
+		ya existen herramientas que se han desarrollado para hacer buscadores
+		solo se mandan peticiones y debemos procesar la informacion (Desarrollo web)
+
+Segunda parte
+	Mejorar el aprendizaje
+	hacer pruebas
+
+Si da tiempo: podemos desarrillar un clasificardor, 
+dado una noticia que reaccion tiene las personas ante esa noticia
+
+COmenzar por la introduccion 
+metodos de recuperacion enfocados a noticia
+
+almenos 3 prodcutos 
+
+proveedores de informacion de secciones especificas de un diario
+
+buscar tt's en el poli (CIC; cinvestav)
+y afuera
+
+Clasificación de noticia
+
+UNAM, UAM
+
+Metodología (Incremental)
+-------------------------------------------------------------
+
+informacion aserca de flipboard
+
+Cultura
+
+procesar información para saber si esta relacionado, con cultura, politica 
+
+
+Conjunto reducido de noticias 
+
+no importa de que siticio , la noticia este especificado lo mejor posible
+
+
+periodos de fecha
+sitios 
+
+Secciones
+
+cultura
+belleza
+poliitica
+deportes
+
+
