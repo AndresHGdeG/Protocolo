@@ -1,0 +1,14 @@
+Recolector de noticias 
+Inteligencia artificial (Doctor Salvador Godoi a la ia) 
+Procesamiento estadistico textual( Doctor  iram Calvo )
+
+pythom 3.6 Anaconda o Spider
+scikit-learn Extraccion de carafterisitcas del texto ya tiene clasificadores
+NLTK -> Procesamiento de texto
+Linux
+CRAWLE
+SCRAPY -> mas recomendable para hacer crawler 
+
+
+
+Pagina del cic DTE
